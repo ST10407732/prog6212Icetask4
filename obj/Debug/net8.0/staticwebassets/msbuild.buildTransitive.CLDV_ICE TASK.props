@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CLDV_ICE TASK.props" />
+</Project>
